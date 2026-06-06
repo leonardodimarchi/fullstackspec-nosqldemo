@@ -9,9 +9,7 @@ Atividade 2 - API Rest com MongoDB
 ## Endpoints de usuários
 
 - `GET /users` - lista usuários
-// image here
 - `POST /users` - cria usuário
-// image here
 - `GET /users/:id` - busca usuário por id
 - `PUT /users/:id` - substitui usuário
 - `PATCH /users/:id` - atualiza parcialmente
