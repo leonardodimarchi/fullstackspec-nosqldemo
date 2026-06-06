@@ -7,7 +7,6 @@ import routes from './routes.js';
 
 const app = express();
 const port = process.env.PORT || 3000;
-const databaseName = process.env.MONGODB_DBNAME || '';
 
 app.use(express.json());
 app.use(cors());
